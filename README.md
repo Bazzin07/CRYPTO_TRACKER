@@ -18,22 +18,16 @@ A real-time cryptocurrency price tracking application that displays market data 
 2. Install dependencies
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. Start the development server
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
 4. Build for production
    ```bash
    npm run build
-   # or
-   yarn build
    ```
 
 ## Tech Stack & Architecture
